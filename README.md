@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects that help make a change
 - 📫 How to reach me (915)-490-3371
-- ⚡ Fun fact: I went into coding with no experience
+- ⚡ Fun fact: I went into coding with no experience and I used to be in Marching Band 
 
 <!---
 luismontemayor14/luismontemayor14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
